@@ -2,7 +2,7 @@
 <head>
 <title>Who am ! ? </title>
 <link rel="stylesheet" href="CSS/style.css">
-<link rel="icon" href="Image/J.PNG">
+<link rel="icon" href= Image/J.PNG>
 </head>
 
 <body bgcolor="#1C1C1C">
